@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Timisoara Tour Guide</string>
+
+    <!-- Category name for parks for kids in Timisoara-->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for restaurants for kids in Timisoara -->
+    <string name="category_restaurant">Restaurants</string>
+
+    <!-- Category name for the museum in Timisoara -->
+    <string name="category_museum">Museum</string>
+
+    <!-- Category name for the indoor places to go with kids in Timisoara -->
+    <string name="category_indoorplay">Playground</string>
+
+    <!-- Category name for the indoor places to go with kids in Timisoara -->
+    <string name="category_kidssport">Kids Sport</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--names for the category parks-->
+    <string name="first_park_name">Bucovina Park</string>
+    <string name="second_park_name">Ion Creanga Children Park</string>
+    <string name="third_park_name">Clabucet Park</string>
+    <string name="fourth_park_name">Lidia Park</string>
+    <string name="fith_park_name">Uzinei Park</string>
+
+    <!--description fot category parks-->
+    <string name="Bucovina_park_description">Bucovina Park is a park that has a surface of ​​1 hectare. It has a special theme, that of the ocean. There are walkways and a specially designed space for children up to 14 years of age.</string>
+    <string name="Children_park_description">The park has 23 areas, which are designed for children of all age groups. The theme of the park is - Play in Nature with Nature.</string>
+    <string name="Clabucet_park_description">The park has 3 different areas for children between 3 and 14 years old. In the park there is a wooden train, a Flinston car, two ping-pong tables, swings and bees.</string>
+    <string name="Lidia_park_description">Tha park has thematic gardens, kids play area, lots of benches and is well maintained.</string>
+    <string name="Uzinei_park_description">Nice park on the bank of Bega river canal, very calm atmosphere with children playgrounds. The big stones arranged in a circular pattern at one of it s edges, brought it the nickname of Stonehenge.</string>
+
+    <!--addresses fos the park category-->
+    <string name="Bucovina_park_address">Address: Timisoara, Steet Soroca 1</string>
+    <string name="Children_park_address">Address: Timisoara, Street C.D. Loga 43</string>
+    <string name="Clabucet_park_address">Address: Timisoara,Street Clabucet</string>
+    <string name="Lidia_park_address">Address: Timisoara, Street Aleea Sanatatii</string>
+    <string name="Uzinei_park_address">Address: Timisoara, Street Gheorghe Longinescu 3</string>
+
+    <!--names for the category restaurants-->
+    <string name="first_restaurant_name">Restaurant Gloria</string>
+    <string name="second_restaurant_name">Old House</string>
+    <string name="third_restaurant_name">Casa Bunicii1</string>
+    <string name="fourth_restaurant_name">Casa Bunicii2</string>
+    <string name="fith_restaurant_name">Petito</string>
+    <string name="sixth_restaurant_name">La Padurea Verde</string>
+
+    <!--description fot category restaurants-->
+    <string name="Gloria_restaurant_description">This restaurant is a small and cosy family restaurant. You can eat pizza, pasta, or any cooked food and your child can play in a safety place.</string>
+    <string name="Old_House_restaurant_description">Restaurant, bar, pub, lounge, café, wine cellar, tea house, beer, Old House is what you want, because it is what you want and it is exactly what you need!</string>
+    <string name="Casa_Bunicii1_restaurant_description">Here you can enjoy the taste of awesome food, delicious homemade deserts and drinks, all meant to calm the soul.</string>
+    <string name="Casa_Bunicii2_restaurant_description">Casa Bunicii 2 started as a natural continuation, a sister-restaurant. It is thought out in Banat region traditional spirit, with the play spaces for kids.</string>
+    <string name="Petito_restaurant_description">A very beautiful place for eating with your family or celebrating your kids birthday.</string>
+    <string name="Padurea_Verde_restaurant_description">It is a rustic place with decent food and service. Is situated in a beautiful forest, so it is the perfect place in summer.</string>
+
+    <!--addresses for the restaurant category-->
+    <string name="Gloria_restaurant_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>
+    <string name="Old_House_restaurant_address">Address: Timisoara, Street Carei 18</string>
+    <string name="Casa_Bunicii1_restaurant_address">Address: Timisoara,Street Virgil Onitiu 3</string>
+    <string name="Casa_Bunicii2_restaurant_address">Address: Dumbravita, Street Petofi Sandor 79</string>
+    <string name="Petito_restaurant_address">Address: Timisoara, Street Liviu Rebreanu no. 2/2</string>
+    <string name="Padurea_Verde_restaurant_address">Address: Timisoara, Street Aleea Padurea Verde</string>
+
+    <!--timetable for the restaurant category-->
+    <string name="Gloria_timetable">Timetable: Monday 12:00 - 23:00 /n Tuesday to Saturday 10:00 - 23:00 /n Sunday 12:00 - 22:00 </string>
+    <string name="Old_House_timetable">Timetable: Monday to Saturday 12:00  - 24:00 /n Sunday 10:00 - 12:00</string>
+    <string name="Casa_Bunicii1_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="Casa_Bunicii2_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="Petito_timetable">Timetable: Monday to Sunday 9:00 - 23:00</string>
+    <string name="Padurea_Verde_timetable">Timetable: Monday to Sunday 00:00 - 24:00 </string>
+
+    <!--phone number for the restaurant category-->
+    <string name="Gloria_phone">Phone Number: +4 0356 448 999</string>
+    <string name="Old_House_phone">Phone Number: +4 0757 083 400 </string>
+    <string name="Casa_Bunicii1_phone">Phone Number: +4 0723 656 918 </string>
+    <string name="Casa_Bunicii2_phone">Phone Number: +4 0723 656 919</string>
+    <string name="Petito_phone">Phone Number: +4  0256 272 795</string>
+    <string name="Padurea_Verde_phone">Phone Number: +4 0256 490 999</string>
+
+    <!--website for the restaurant category-->
+    <string name="Gloria_website">Website: http://restaurant-gloria.ro/</string>
+    <string name="Old_House_website">Website: http://www.oldhousetimisoara.ro/</string>
+    <string name="Casa_Bunicii1_website">Website: http://casa-bunicii.ro/</string>
+    <string name="Casa_Bunicii2_website">Website: http://casa-bunicii.ro/</string>
+    <string name="Petito_website">Website: http://www.restaurantpetito.ro/</string>
+    <string name="Padurea_Verde_website">Website: https://lapadureaverde.ro/</string>
+
+    <!--names for the category museum-->
+    <string name="first_museum_name">Public Transportation Museum Corneliu Miklosi</string>
+    <string name="second_museum_name">Art Museum</string>
+    <string name="third_museum_name">Banat Village Museum</string>
+    <string name="fourth_museum_name">Merlin Theater</string>
+
+
+    <!--description fot category museum-->
+    <string name="RATT_museum_description">This restaurant is a small and cosy family restaurant. You can eat pizza, pasta, or any cooked food and your child can play in a safety place.</string>
+    <string name="Art_museum_description">Restaurant, bar, pub, lounge, café, wine cellar, tea house, beer, Old House is what you want, because it is what you want and it is exactly what you need!</string>
+    <string name="Banat_Village_museum_description">Here you can enjoy the taste of awesome food, delicious homemade deserts and drinks, all meant to calm the soul.</string>
+    <string name="Merlin_theater_description">Casa Bunicii 2 started as a natural continuation, a sister-restaurant. It is thought out in Banat region traditional spirit, with the play spaces for kids.</string>
+
+    <!--addresses for the museum category-->
+    <string name="RATT_museum_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>
+    <string name="Art_museum_address">Address: Timisoara, Street Carei 18</string>
+    <string name="Banat_Village_address">Address: Timisoara,Street Virgil Onitiu 3</string>
+    <string name="Merlin_Theater_address">Address: Dumbravita, Street Petofi Sandor 79</string>
+
+    <!--timetable for the museum category-->
+    <string name="RATT_museum_timetable">Timetable: only after prior contact </string>
+    <string name="Art_museum_timetable">Timetable: Tuesday to Sunday 10:00 - 18:00</string>
+    <string name="Banat_Village_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="Merlin_Theater_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+
+    <!--phone number for the museum category-->
+    <string name="RATT_museum_phone">Phone Number: +4 0725 234 532</string>
+    <string name="Art_museum_phone">Phone Number: +4 0256 491 592</string>
+    <string name="Banat_Village_phone">Phone Number: +4 0256 491 339</string>
+    <string name="Merlin_Theater_phone">Phone Number: +4  0256 493 049</string>
+
+    <!--website for the museum category-->
+    <string name="RATT_museum_website">Website: http://www.ratt.ro/muzeuCM.html</string>
+    <string name="Art_museum_website">Website: http://www.muzeuldeartatm.ro/</string>
+    <string name="Banat_Village_website">Website: https://mnab.ro/</string>
+    <string name="Merlin_Theater_website">Website: http://www.teatrul-merlin.ro//</string>
+
+</resources>
