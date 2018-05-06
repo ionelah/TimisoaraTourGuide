@@ -96,10 +96,10 @@
 
 
     <!--description fot category museum-->
-    <string name="RATT_museum_description">This restaurant is a small and cosy family restaurant. You can eat pizza, pasta, or any cooked food and your child can play in a safety place.</string>
-    <string name="Art_museum_description">Restaurant, bar, pub, lounge, café, wine cellar, tea house, beer, Old House is what you want, because it is what you want and it is exactly what you need!</string>
-    <string name="Banat_Village_museum_description">Here you can enjoy the taste of awesome food, delicious homemade deserts and drinks, all meant to calm the soul.</string>
-    <string name="Merlin_theater_description">Casa Bunicii 2 started as a natural continuation, a sister-restaurant. It is thought out in Banat region traditional spirit, with the play spaces for kids.</string>
+    <string name="RATT_museum_description">The collection includes several types of wagons, trams, trolleybuses, buses, but also various technical or manual machines.</string>
+    <string name="Art_museum_description">The Art Museum is located in the center of the city within the Baroque Palace. Currently it lists 8500 exhibits.</string>
+    <string name="Banat_Village_museum_description">It is an ethnographic museum where we can find the civic center of the village, consisting of the City Hall, the Church, the School, the National House (with cultural destination) and the pub.</string>
+    <string name="Merlin_Theater_description">Merlin Theater is a puppet theater for young people and children. Artistic and educational activities include about 20 shows.</string>
 
     <!--addresses for the museum category-->
     <string name="RATT_museum_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>

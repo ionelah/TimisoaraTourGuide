@@ -30,8 +30,10 @@ public class MuseumFragment extends Fragment {
         //create an arrayList of locations
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-        locations.add(new Location("muzeu 1","descriere","adresa","orar","telefon","website"));
-        locations.add(new Location("muzeu 2","descriere","adresa","orar","telefon","website"));
+        locations.add(new Location(getString(R.string.first_museum_name),getString(R.string.RATT_museum_description),getString(R.string.RATT_museum_address),getString(R.string.RATT_museum_timetable),getString(R.string.RATT_museum_phone),getString(R.string.RATT_museum_website)));
+        locations.add(new Location(getString(R.string.second_museum_name),getString(R.string.Art_museum_description),getString(R.string.Art_museum_address),getString(R.string.Art_museum_timetable),getString(R.string.Art_museum_phone),getString(R.string.Art_museum_website)));
+        locations.add(new Location(getString(R.string.first_museum_name),getString(R.string.Banat_Village_museum_description),getString(R.string.Banat_Village_address),getString(R.string.Banat_Village_timetable),getString(R.string.Banat_Village_phone),getString(R.string.Banat_Village_website)));
+        locations.add(new Location(getString(R.string.first_museum_name),getString(R.string.Merlin_Theater_description),getString(R.string.Merlin_Theater_address),getString(R.string.Merlin_Theater_timetable),getString(R.string.Merlin_Theater_phone),getString(R.string.Merlin_Theater_website)));
 
         //Create an ArrayAdapter whose data source is a list of strings.
         LocationAdapter adapter = new LocationAdapter(getContext(), locations);
