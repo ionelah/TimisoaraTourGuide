@@ -26,11 +26,11 @@ public class ParkFragment extends Fragment {
         //create an arrayList of locations
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-       locations.add(new Location(R.drawable.parc1,getString(R.string.first_park_name),getString(R.string.Bucovina_park_description),getString(R.string.Bucovina_park_address)));
-       locations.add(new Location(R.drawable.parc2,getString(R.string.second_park_name),getString(R.string.Children_park_description),getString(R.string.Children_park_address)));
-       locations.add(new Location(R.drawable.parc2,getString(R.string.third_park_name),getString(R.string.Clabucet_park_description),getString(R.string.Clabucet_park_address)));
-       locations.add(new Location(R.drawable.parc2,getString(R.string.fourth_park_name),getString(R.string.Lidia_park_description),getString(R.string.Lidia_park_address)));
-       locations.add(new Location(R.drawable.parc2,getString(R.string.fith_park_name),getString(R.string.Uzinei_park_description),getString(R.string.Uzinei_park_address)));
+       locations.add(new Location(R.drawable.parc1,getString(R.string.first_park_name),getString(R.string.first_park_description),getString(R.string.first_park_address)));
+       locations.add(new Location(R.drawable.parc2,getString(R.string.second_park_name),getString(R.string.second_park_description),getString(R.string.second_park_address)));
+       locations.add(new Location(R.drawable.parc2,getString(R.string.third_park_name),getString(R.string.third_park_description),getString(R.string.thirds_park_address)));
+       locations.add(new Location(R.drawable.parc2,getString(R.string.fourth_park_name),getString(R.string.fourth_park_description),getString(R.string.fourth_park_address)));
+       locations.add(new Location(R.drawable.parc2,getString(R.string.fith_park_name),getString(R.string.fifth_park_description),getString(R.string.fifth_park_address)));
 
        //Create an ArrayAdapter whose data source is a list of strings.
         LocationAdapter adapter = new LocationAdapter(getContext(), locations);

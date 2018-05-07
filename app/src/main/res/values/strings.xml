@@ -27,18 +27,18 @@
     <string name="fith_park_name">Uzinei Park</string>
 
     <!--description fot category parks-->
-    <string name="Bucovina_park_description">Bucovina Park is a park that has a surface of ​​1 hectare. It has a special theme, that of the ocean. There are walkways and a specially designed space for children up to 14 years of age.</string>
-    <string name="Children_park_description">The park has 23 areas, which are designed for children of all age groups. The theme of the park is - Play in Nature with Nature.</string>
-    <string name="Clabucet_park_description">The park has 3 different areas for children between 3 and 14 years old. In the park there is a wooden train, a Flinston car, two ping-pong tables, swings and bees.</string>
-    <string name="Lidia_park_description">Tha park has thematic gardens, kids play area, lots of benches and is well maintained.</string>
-    <string name="Uzinei_park_description">Nice park on the bank of Bega river canal, very calm atmosphere with children playgrounds. The big stones arranged in a circular pattern at one of it s edges, brought it the nickname of Stonehenge.</string>
+    <string name="first_park_description">Bucovina Park is a park that has a surface of ​​1 hectare. It has a special theme, that of the ocean. There are walkways and a specially designed space for children up to 14 years of age.</string>
+    <string name="second_park_description">The park has 23 areas, which are designed for children of all age groups. The theme of the park is - Play in Nature with Nature.</string>
+    <string name="third_park_description">The park has 3 different areas for children between 3 and 14 years old. In the park there is a wooden train, a Flinston car, two ping-pong tables, swings and bees.</string>
+    <string name="fourth_park_description">Tha park has thematic gardens, kids play area, lots of benches and is well maintained.</string>
+    <string name="fifth_park_description">Nice park on the bank of Bega river canal, very calm atmosphere with children playgrounds. The big stones arranged in a circular pattern at one of it s edges, brought it the nickname of Stonehenge.</string>
 
     <!--addresses fos the park category-->
-    <string name="Bucovina_park_address">Address: Timisoara, Steet Soroca 1</string>
-    <string name="Children_park_address">Address: Timisoara, Street C.D. Loga 43</string>
-    <string name="Clabucet_park_address">Address: Timisoara,Street Clabucet</string>
-    <string name="Lidia_park_address">Address: Timisoara, Street Aleea Sanatatii</string>
-    <string name="Uzinei_park_address">Address: Timisoara, Street Gheorghe Longinescu 3</string>
+    <string name="first_park_address">Address: Timisoara, Steet Soroca 1</string>
+    <string name="second_park_address">Address: Timisoara, Street C.D. Loga 43</string>
+    <string name="thirds_park_address">Address: Timisoara,Street Clabucet</string>
+    <string name="fourth_park_address">Address: Timisoara, Street Aleea Sanatatii</string>
+    <string name="fifth_park_address">Address: Timisoara, Street Gheorghe Longinescu 3</string>
 
     <!--names for the category restaurants-->
     <string name="first_restaurant_name">Restaurant Gloria</string>
@@ -49,44 +49,44 @@
     <string name="sixth_restaurant_name">La Padurea Verde</string>
 
     <!--description fot category restaurants-->
-    <string name="Gloria_restaurant_description">This restaurant is a small and cosy family restaurant. You can eat pizza, pasta, or any cooked food and your child can play in a safety place.</string>
-    <string name="Old_House_restaurant_description">Restaurant, bar, pub, lounge, café, wine cellar, tea house, beer, Old House is what you want, because it is what you want and it is exactly what you need!</string>
-    <string name="Casa_Bunicii1_restaurant_description">Here you can enjoy the taste of awesome food, delicious homemade deserts and drinks, all meant to calm the soul.</string>
-    <string name="Casa_Bunicii2_restaurant_description">Casa Bunicii 2 started as a natural continuation, a sister-restaurant. It is thought out in Banat region traditional spirit, with the play spaces for kids.</string>
-    <string name="Petito_restaurant_description">A very beautiful place for eating with your family or celebrating your kids birthday.</string>
-    <string name="Padurea_Verde_restaurant_description">It is a rustic place with decent food and service. Is situated in a beautiful forest, so it is the perfect place in summer.</string>
+    <string name="first_restaurant_description">This restaurant is a small and cosy family restaurant. You can eat pizza, pasta, or any cooked food and your child can play in a safety place.</string>
+    <string name="second_restaurant_description">Restaurant, bar, pub, lounge, café, wine cellar, tea house, beer, Old House is what you want, because it is what you want and it is exactly what you need!</string>
+    <string name="third_restaurant_description">Here you can enjoy the taste of awesome food, delicious homemade deserts and drinks, all meant to calm the soul.</string>
+    <string name="fourth_restaurant_description">Casa Bunicii 2 started as a natural continuation, a sister-restaurant. It is thought out in Banat region traditional spirit, with the play spaces for kids.</string>
+    <string name="fifth_restaurant_description">A very beautiful place for eating with your family or celebrating your kids birthday.</string>
+    <string name="sixth_restaurant_description">It is a rustic place with decent food and service. Is situated in a beautiful forest, so it is the perfect place in summer.</string>
 
     <!--addresses for the restaurant category-->
-    <string name="Gloria_restaurant_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>
-    <string name="Old_House_restaurant_address">Address: Timisoara, Street Carei 18</string>
-    <string name="Casa_Bunicii1_restaurant_address">Address: Timisoara,Street Virgil Onitiu 3</string>
-    <string name="Casa_Bunicii2_restaurant_address">Address: Dumbravita, Street Petofi Sandor 79</string>
-    <string name="Petito_restaurant_address">Address: Timisoara, Street Liviu Rebreanu no. 2/2</string>
-    <string name="Padurea_Verde_restaurant_address">Address: Timisoara, Street Aleea Padurea Verde</string>
+    <string name="first_restaurant_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>
+    <string name="second_restaurant_address">Address: Timisoara, Street Carei 18</string>
+    <string name="third_restaurant_address">Address: Timisoara,Street Virgil Onitiu 3</string>
+    <string name="fourth_restaurant_address">Address: Dumbravita, Street Petofi Sandor 79</string>
+    <string name="fifth_restaurant_address">Address: Timisoara, Street Liviu Rebreanu no. 2/2</string>
+    <string name="sixth_restaurant_address">Address: Timisoara, Street Aleea Padurea Verde</string>
 
     <!--timetable for the restaurant category-->
-    <string name="Gloria_timetable">Timetable: Monday 12:00 - 23:00 /n Tuesday to Saturday 10:00 - 23:00 /n Sunday 12:00 - 22:00 </string>
-    <string name="Old_House_timetable">Timetable: Monday to Saturday 12:00  - 24:00 /n Sunday 10:00 - 12:00</string>
-    <string name="Casa_Bunicii1_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
-    <string name="Casa_Bunicii2_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
-    <string name="Petito_timetable">Timetable: Monday to Sunday 9:00 - 23:00</string>
-    <string name="Padurea_Verde_timetable">Timetable: Monday to Sunday 00:00 - 24:00 </string>
+    <string name="first_restaurant_timetable">Timetable: Monday to Saturday 10:00 - 23:00 /n Sunday 12:00 - 22:00 </string>
+    <string name="second_restaurant_timetable">Timetable: Monday to Saturday 12:00  - 24:00 /n Sunday 10:00 - 12:00</string>
+    <string name="third_restaurant_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="fourth_restaurant_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="fifth_restaurant_timetable">Timetable: Monday to Sunday 9:00 - 23:00</string>
+    <string name="sixth_restaurant_timetable">Timetable: Monday to Sunday 00:00 - 24:00 </string>
 
     <!--phone number for the restaurant category-->
-    <string name="Gloria_phone">Phone Number: +4 0356 448 999</string>
-    <string name="Old_House_phone">Phone Number: +4 0757 083 400 </string>
-    <string name="Casa_Bunicii1_phone">Phone Number: +4 0723 656 918 </string>
-    <string name="Casa_Bunicii2_phone">Phone Number: +4 0723 656 919</string>
-    <string name="Petito_phone">Phone Number: +4  0256 272 795</string>
-    <string name="Padurea_Verde_phone">Phone Number: +4 0256 490 999</string>
+    <string name="first_restaurant_phone">Phone Number: +4 0356 448 999</string>
+    <string name="second_restaurant_phone">Phone Number: +4 0757 083 400 </string>
+    <string name="third_restaurant_phone">Phone Number: +4 0723 656 918 </string>
+    <string name="fourth_restaurant_phone">Phone Number: +4 0723 656 919</string>
+    <string name="fifth_restaurant_phone">Phone Number: +4  0256 272 795</string>
+    <string name="sixth_restaurant_phone">Phone Number: +4 0256 490 999</string>
 
     <!--website for the restaurant category-->
-    <string name="Gloria_website">Website: http://restaurant-gloria.ro/</string>
-    <string name="Old_House_website">Website: http://www.oldhousetimisoara.ro/</string>
-    <string name="Casa_Bunicii1_website">Website: http://casa-bunicii.ro/</string>
-    <string name="Casa_Bunicii2_website">Website: http://casa-bunicii.ro/</string>
-    <string name="Petito_website">Website: http://www.restaurantpetito.ro/</string>
-    <string name="Padurea_Verde_website">Website: https://lapadureaverde.ro/</string>
+    <string name="first_restaurant_website">Website: http://restaurant-gloria.ro/</string>
+    <string name="second_restaurant_website">Website: http://www.oldhousetimisoara.ro/</string>
+    <string name="third_restaurant_website">Website: http://casa-bunicii.ro/</string>
+    <string name="fourth_restaurant_website">Website: http://casa-bunicii.ro/</string>
+    <string name="fifth_restaurant_website">Website: http://www.restaurantpetito.ro/</string>
+    <string name="sixth_restaurant_website">Website: https://lapadureaverde.ro/</string>
 
     <!--names for the category museum-->
     <string name="first_museum_name">Public Transportation Museum Corneliu Miklosi</string>
@@ -94,35 +94,100 @@
     <string name="third_museum_name">Banat Village Museum</string>
     <string name="fourth_museum_name">Merlin Theater</string>
 
-
     <!--description fot category museum-->
-    <string name="RATT_museum_description">The collection includes several types of wagons, trams, trolleybuses, buses, but also various technical or manual machines.</string>
-    <string name="Art_museum_description">The Art Museum is located in the center of the city within the Baroque Palace. Currently it lists 8500 exhibits.</string>
-    <string name="Banat_Village_museum_description">It is an ethnographic museum where we can find the civic center of the village, consisting of the City Hall, the Church, the School, the National House (with cultural destination) and the pub.</string>
-    <string name="Merlin_Theater_description">Merlin Theater is a puppet theater for young people and children. Artistic and educational activities include about 20 shows.</string>
+    <string name="first_museum_description">The collection includes several types of wagons, trams, trolleybuses, buses, but also various technical or manual machines.</string>
+    <string name="second_museum_description">The Art Museum is located in the center of the city within the Baroque Palace. Currently it lists 8500 exhibits.</string>
+    <string name="third_museum_description">It is an ethnographic museum where we can find the civic center of the village, consisting of the City Hall, the Church, the School, the National House (with cultural destination) and the pub.</string>
+    <string name="fourth_museum_description">Merlin Theater is a puppet theater for young people and children. Artistic and educational activities include about 20 shows.</string>
 
     <!--addresses for the museum category-->
-    <string name="RATT_museum_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>
-    <string name="Art_museum_address">Address: Timisoara, Street Carei 18</string>
-    <string name="Banat_Village_address">Address: Timisoara,Street Virgil Onitiu 3</string>
-    <string name="Merlin_Theater_address">Address: Dumbravita, Street Petofi Sandor 79</string>
+    <string name="first_museum_address">Address: Timisoara, Street Bogdan Petriceicu Hasdeu</string>
+    <string name="second_museum_address">Address: Timisoara, Street Carei 18</string>
+    <string name="third_museum_address">Address: Timisoara,Street Virgil Onitiu 3</string>
+    <string name="fourth_museum_address">Address: Dumbravita, Street Petofi Sandor 79</string>
 
     <!--timetable for the museum category-->
-    <string name="RATT_museum_timetable">Timetable: only after prior contact </string>
-    <string name="Art_museum_timetable">Timetable: Tuesday to Sunday 10:00 - 18:00</string>
-    <string name="Banat_Village_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
-    <string name="Merlin_Theater_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="first_museum_timetable">Timetable: only after prior contact </string>
+    <string name="second_museum_timetable">Timetable: Tuesday to Sunday 10:00 - 18:00</string>
+    <string name="third_museum_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
+    <string name="fourth_museum_timetable">Timetable: Monday to Sunday 11:00 - 24:00</string>
 
     <!--phone number for the museum category-->
-    <string name="RATT_museum_phone">Phone Number: +4 0725 234 532</string>
-    <string name="Art_museum_phone">Phone Number: +4 0256 491 592</string>
-    <string name="Banat_Village_phone">Phone Number: +4 0256 491 339</string>
-    <string name="Merlin_Theater_phone">Phone Number: +4  0256 493 049</string>
+    <string name="first_museum_phone">Phone Number: +4 0725 234 532</string>
+    <string name="second_museum_phone">Phone Number: +4 0256 491 592</string>
+    <string name="third_museum_phone">Phone Number: +4 0256 491 339</string>
+    <string name="fourth_museum_phone">Phone Number: +4  0256 493 049</string>
 
     <!--website for the museum category-->
-    <string name="RATT_museum_website">Website: http://www.ratt.ro/muzeuCM.html</string>
-    <string name="Art_museum_website">Website: http://www.muzeuldeartatm.ro/</string>
-    <string name="Banat_Village_website">Website: https://mnab.ro/</string>
-    <string name="Merlin_Theater_website">Website: http://www.teatrul-merlin.ro//</string>
+    <string name="first_museum_website">Website: http://www.ratt.ro/muzeuCM.html</string>
+    <string name="second_museum_website">Website: http://www.muzeuldeartatm.ro/</string>
+    <string name="third_museum_website">Website: https://mnab.ro/</string>
+    <string name="fifth_museum_website">Website: http://www.teatrul-merlin.ro//</string>
 
-</resources>
+    <!-- Playground category -->
+    <string name="first_playground_name">Castelino</string>
+    <string name="second_playground_name">Kids Town</string>
+    <string name="third_playground_name">Psiho Conect</string>
+    <string name="fourth_playground_name">Arena jocurilor (The Arena of Games)</string>
+
+    <!--description fot category playground-->
+    <string name="first_playground_description">Is a great place to organize parties and celebrations for children, or just a place to drink a coffee till your kids are playing.</string>
+    <string name="second_playground_description">It is a "Wonderland" for all children: the Lego House, the King\'s Palace, the Princess\'s House, the School, the Police station, the Fire brigade, the Mini-supermarket are all waiting for cheerful owners.</string>
+    <string name="third_playground_description">A special place with special people. Here your kids can spend good time playing or doing activities. There are baby classes, for kids between 3 and 5 years and special classes for kids 4 to 7 years.</string>
+    <string name="fourth_playground_description">A playground for kids up to 10 years old. It is a great place to keep a party or just to play.</string>
+
+    <!--addresses for the playground category-->
+    <string name="first_playground_address">Address: Timisoara, Street Piața Plevnei 4</string>
+    <string name="second_playground_address">Address: Timisoara, Street Nicolae Păulescu 2</string>
+    <string name="third_playground_address">Address: Giroc, Street Rozelor nr. 1</string>
+    <string name="fourth_playground_address">Address: Timisoara, Divizia 9 Cavalerie</string>
+
+    <!--timetable for the playground category-->
+    <string name="first_playground_timetable">Timetable: Flexible </string>
+    <string name="second_playground_timetable">Timetable: Monday to Friday 10:00 – 22:00/n Saturday to Sunday 10:00 – 00:00</string>
+    <string name="third_playground_timetable">Timetable: Monday to Friday 9:00 – 19:00</string>
+    <string name="fourth_playground_timetable">Timetable: Tuesday to Friday 16:00 – 21:00 /n Saturday to Sunday 10:00 – 21:00</string>
+
+    <!--phone number for the playground category-->
+    <string name="first_playground_phone">Phone Number: +04  0725 877 724</string>
+    <string name="second_playground_phone">Phone Number: +04 0734 000 073</string>
+    <string name="third_playground_phone">Phone Number: +04 0721 282 238</string>
+    <string name="fourth_playground_phone">Phone Number: +04 0724 246 585</string>
+
+    <!--website for the playground category-->
+    <string name="first_playground_website">Website: http://castelino.weebly.com/</string>
+    <string name="second_playground_website">Website: http://www.kidstown.ro/</string>
+    <string name="third_playground_website">Website: http://psiho-connect.ro/psihoterapie/</string>
+    <string name="fifth_playground_website">Website: http://www.arena-jocurilor.ro/</string>
+
+    <!--names for the category kidssport-->
+    <string name="first_kidssport_name">Beauty Center</string>
+    <string name="second_kidssport_name">Thermal Pool</string>
+    <string name="third_kidssport_name">Arena Aquasport</string>
+
+    <!--description fot category kidssport-->
+    <string name="first_kidssport_description">Offers a wide range of sports services with well-trained staff. Dance, aerobics, swimming at suitable times for children.</string>
+    <string name="second_kidssport_description">It includes 2 thermal water pools, 3 cold water pools, cold water showers and thermal water. For children there are  a pool with cold water and one with thermal water, tops and toys.</string>
+    <string name="third_kidssport_description"> Aqua Arena Sport The a modern offers, indoor swimming pool perfect for swimming, performance sports, recreation or leisure in a pleasant and healthy way for children, adults and the elderly. </string>
+
+    <!--addresses for the kidssport category-->
+    <string name="first_kidssport_address">Address: Timisoara, Street Iancu Flondor</string>
+    <string name="second_kidssport_address">Address: Timisoara, Street  Avram Imbroane no. 56</string>
+    <string name="third_kidssport_address">Address: Timisoara, Street Orăștie</string>
+
+    <!--timetable for the kidssport category-->
+    <string name="first_kidssport_timetable">Monday to Friday 07:00 – 22:00 /n Saturday 10:00 – 22:00 /n Sunday 11:00 – 17:00 </string>
+    <string name="second_kidssport_timetable">Timetable: Monday to Sunday 09:00 – 22:00</string>
+    <string name="third_kidssport_timetable">Timetable: Monday to Friday 07:00 – 23:00 /n Saturday to Sunday 09:00 – 22:00</string>
+
+    <!--phone number for the kidssport category-->
+    <string name="first_kidssport_phone">Phone Number: +04 0256 242 279</string>
+    <string name="second_kidssport_phone">Phone Number: +04 0736 010 333</string>
+    <string name="third_kidssport_phone">Phone Number: +04 0256 213 103</string>
+
+    <!--website for the kidssport category-->
+    <string name="first_kidssport_website">Website: http://www.beautycentertm.ro/</string>
+    <string name="second_kidssport_website">Website: https://termalum-spa.ro/</string>
+    <string name="third_kidssport_website">Website: www.arenaaquasport.ro/</string>
+
+    </resources>

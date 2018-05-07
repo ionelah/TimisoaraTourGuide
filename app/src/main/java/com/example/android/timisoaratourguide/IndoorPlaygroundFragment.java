@@ -29,8 +29,10 @@ public class IndoorPlaygroundFragment extends Fragment {
         //create an arrayList of locations
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-        locations.add(new Location("indoor 1","descriere","adresa","orar","telefon","website"));
-        locations.add(new Location("indoor 2","descriere","adresa","orar","telefon","website"));
+        locations.add(new Location(getString(R.string.first_playground_name),getString(R.string.first_playground_description),getString(R.string.first_playground_address),getString(R.string.first_playground_timetable),getString(R.string.first_playground_phone),getString(R.string.first_playground_website)));
+        locations.add(new Location(getString(R.string.second_playground_name),getString(R.string.second_playground_description),getString(R.string.second_playground_address),getString(R.string.second_playground_timetable),getString(R.string.second_playground_phone),getString(R.string.second_playground_website)));
+        locations.add(new Location(getString(R.string.first_playground_name),getString(R.string.third_playground_description),getString(R.string.third_playground_address),getString(R.string.third_playground_timetable),getString(R.string.third_playground_phone),getString(R.string.third_playground_website)));
+        locations.add(new Location(getString(R.string.first_playground_name),getString(R.string.fourth_playground_description),getString(R.string.fourth_playground_address),getString(R.string.fourth_playground_timetable),getString(R.string.fourth_playground_phone),getString(R.string.fifth_playground_website)));
 
         //Create an ArrayAdapter whose data source is a list of strings.
         LocationAdapter adapter = new LocationAdapter(getContext(), locations);

@@ -7,7 +7,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -29,12 +28,12 @@ public class RestaurantFragment extends Fragment {
         //create an arrayList of locations
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-        locations.add(new Location(getString(R.string.first_restaurant_name), getString(R.string.Gloria_restaurant_description),getString(R.string.Gloria_restaurant_address),getString(R.string.Gloria_timetable),getString(R.string.Gloria_phone),getString(R.string.Gloria_website)));
-        locations.add(new Location(getString(R.string.second_restaurant_name), getString(R.string.Old_House_restaurant_description),getString(R.string.Old_House_restaurant_address),getString(R.string.Old_House_timetable),getString(R.string.Old_House_phone),getString(R.string.Old_House_website)));
-        locations.add(new Location(getString(R.string.third_restaurant_name), getString(R.string.Casa_Bunicii1_restaurant_description),getString(R.string.Casa_Bunicii1_restaurant_address),getString(R.string.Casa_Bunicii1_timetable),getString(R.string.Casa_Bunicii1_phone),getString(R.string.Casa_Bunicii1_website)));
-        locations.add(new Location(getString(R.string.fourth_restaurant_name), getString(R.string.Casa_Bunicii2_restaurant_description),getString(R.string.Casa_Bunicii2_restaurant_address),getString(R.string.Casa_Bunicii2_timetable),getString(R.string.Casa_Bunicii2_phone),getString(R.string.Casa_Bunicii2_website)));
-        locations.add(new Location(getString(R.string.fith_restaurant_name), getString(R.string.Petito_restaurant_description),getString(R.string.Petito_restaurant_address),getString(R.string.Petito_timetable),getString(R.string.Petito_phone),getString(R.string.Petito_website)));
-        locations.add(new Location(getString(R.string.sixth_restaurant_name), getString(R.string.Padurea_Verde_restaurant_description),getString(R.string.Padurea_Verde_restaurant_address),getString(R.string.Padurea_Verde_timetable),getString(R.string.Padurea_Verde_phone),getString(R.string.Padurea_Verde_website)));
+        locations.add(new Location(getString(R.string.first_restaurant_name), getString(R.string.first_restaurant_description),getString(R.string.first_restaurant_address),getString(R.string.first_restaurant_timetable),getString(R.string.first_restaurant_phone),getString(R.string.first_restaurant_website)));
+        locations.add(new Location(getString(R.string.second_restaurant_name), getString(R.string.second_restaurant_description),getString(R.string.second_restaurant_address),getString(R.string.second_restaurant_timetable),getString(R.string.second_restaurant_phone),getString(R.string.second_restaurant_website)));
+        locations.add(new Location(getString(R.string.third_restaurant_name), getString(R.string.third_restaurant_description),getString(R.string.third_restaurant_address),getString(R.string.third_restaurant_timetable),getString(R.string.third_restaurant_phone),getString(R.string.third_restaurant_website)));
+        locations.add(new Location(getString(R.string.fourth_restaurant_name), getString(R.string.fourth_restaurant_description),getString(R.string.fourth_restaurant_address),getString(R.string.fourth_restaurant_timetable),getString(R.string.fourth_restaurant_phone),getString(R.string.fourth_restaurant_website)));
+        locations.add(new Location(getString(R.string.fith_restaurant_name), getString(R.string.fifth_restaurant_description),getString(R.string.fifth_restaurant_address),getString(R.string.fifth_restaurant_timetable),getString(R.string.fifth_restaurant_phone),getString(R.string.fifth_restaurant_website)));
+        locations.add(new Location(getString(R.string.sixth_restaurant_name), getString(R.string.sixth_restaurant_description),getString(R.string.sixth_restaurant_address),getString(R.string.sixth_restaurant_timetable),getString(R.string.sixth_restaurant_phone),getString(R.string.sixth_restaurant_website)));
 
 
         //Create an ArrayAdapter whose data source is a list of strings.
