@@ -7,5 +7,23 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <!-- Style to customize Title Labels inside list_item -->
+    <style name="TxtLabel" parent="@style/TxtView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- Style to customize TextVies inside list_item -->
+    <style name="TxtView" parent="android:style/TextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/TxtViewMarginLeft</item>
+        <item name="android:layout_marginTop">@dimen/TxtViewMarginTop</item>
+        <item name="android:textSize">@dimen/TextSize</item>
+    </style>
+    <style name="LayoutHoriz" parent="android:style/TextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
 
 </resources>
